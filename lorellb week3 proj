@@ -395,27 +395,7 @@ button:hover{
     transform: translateY(-10px);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* header/ that search bar */
-
 
 
 .header{
@@ -541,16 +521,6 @@ button:hover{
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 /* newsletter */
 
 
@@ -613,23 +583,6 @@ button:hover{
     background-color: #00138e;
     border-color: #00138e;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* contact us */
 
